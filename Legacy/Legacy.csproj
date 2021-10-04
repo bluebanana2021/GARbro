@@ -101,6 +101,7 @@
     <Compile Include="Electriciteit\ArcPKK.cs" />
     <Compile Include="Eye\ImageCSF.cs" />
     <Compile Include="FazeX\ImageFGP.cs" />
+    <Compile Include="Gsx\ImageK4.cs" />
     <Compile Include="HillField\ImageIMA.cs" />
     <Compile Include="HillField\ImageIMG.cs" />
     <Compile Include="KApp\ArcASD.cs" />
@@ -201,6 +202,7 @@
     <Compile Include="Yaneurao\ArcDAT.cs" />
     <Compile Include="Factor\ArcRES.cs" />
     <Compile Include="Gsx\ArcK3.cs" />
+    <Compile Include="Gsx\ArcK5.cs" />
     <Compile Include="Gsx\ImageK2.cs" />
     <Compile Include="hmp\ImageMBP.cs" />
     <Compile Include="Hyperspace\BmpExtension.cs" />
